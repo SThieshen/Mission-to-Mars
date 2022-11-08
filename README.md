@@ -1,5 +1,5 @@
 # Mission-to-Mars
-##Purpose of Analysis
+#Purpose of Analysis
 
 This analysis was divided into two parts. For the first part of the analysis, automated browsing using Splinter, was used to visit the Mars news site. The HTML code was extracted via Beautiful Soup. The titles and preview text of the news articles were scraped and extracted, and the scraped info was stored in a Python data structure. For the second part of the analysis, automated browsing was used to visit the Mars temperature data site, and the HTML code was extracted. The Mars data table was scraped and extracted, and stored in a Pandas DataFrame. The following observations were made with the scraped data:
 
